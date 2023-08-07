@@ -1,13 +1,13 @@
 # Onboardbase CTL
 Onboardbase CTL is a CLI tool for setting up Onboardbase platform to be hosted locally.
 
-# Installation
+## Installation
 
-## bash (Recommended)
+### bash (Recommended)
 ```
 curl https://onboardbase.github.io/obbctl-sh/ | bash
 ```
-## npm
+### npm
 ```
 npm i -g @onboardbase/obbctl
 ```
@@ -16,13 +16,13 @@ npm i -g @onboardbase/obbctl
 ```
 yarn global add @onboardbase/obbctl
 ``` -->
-## brew
+### brew
 ```
 brew tap onboardbase/obbctl
 
 brew install obbctl
 ```
-# Usage
+## Usage
 Run the following to see all the available commands:
 ```
 obbctl help
@@ -52,5 +52,5 @@ Flags:
 Use "obbctl [command] --help" for more information about a command.
 ```
 
-## Initializing
+### Initializing
 You can find detailed instructions on how to use this CLI tool [here](https://docs.onboardbase.com/docs/selfhosting-overview).
