@@ -1,5 +1,5 @@
-# onboardbasectl
-onboardbasectl is a CLI tool for setting up Onboardbase platform to be hosted locally.
+# Onboardbase CTL
+Onboardbase CTL is a CLI tool for setting up Onboardbase platform to be hosted locally.
 
 # Installation
 
@@ -27,7 +27,7 @@ Run the following to see all the available commands:
 ```
 obbctl help
 ```
-This will display information abouut the CLI
+This will display information about the CLI
 
 ```
 > obbctl help
@@ -53,4 +53,4 @@ Use "obbctl [command] --help" for more information about a command.
 ```
 
 ## Initializing
-You can find detailed instrustions on how to use this CLI tool [here](https://docs.onboardbase.com/docs/selfhosting-overview).
+You can find detailed instructions on how to use this CLI tool [here](https://docs.onboardbase.com/docs/selfhosting-overview).
