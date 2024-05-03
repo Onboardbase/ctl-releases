@@ -54,4 +54,4 @@ Use "obbctl [command] --help" for more information about a command.
 ```
 
 # Initializing
-You can find detailed instructions on how to use this CLI tool [here](https://docs.onboardbase.com/docs/selfhosting-overview).
+You can find detailed instructions on how to use this CLI tool [here](https://docs.onboardbase.com/docs/self-hosting).
